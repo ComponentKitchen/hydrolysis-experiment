@@ -1,0 +1,8 @@
+{
+  "name": "hydrolysis-experiment",
+  "version": "0.0.1",
+  "dependencies": {
+    "basic-list-box": "basic-web-components/basic-list-box#master",
+    "iron-autogrow-textarea": "PolymerElements/iron-autogrow-textarea"
+  }
+}
